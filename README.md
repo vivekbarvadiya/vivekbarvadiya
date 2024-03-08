@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek V. Barvadiya</h1>
 <h3 align="center">A Full stack developer</h3>
 
-<img src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="coding" width="400">
+<img align='right' src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="coding" width="400">
 
 - 🔭 I’m currently working on **hackathon project**
 
