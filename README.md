@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek V. Barvadiya</h1>
 <h3 align="center">A Full stack developer</h3>
-<iframe src="https://giphy.com/embed/Y1vohJMVMtjSQxmUot" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/codeit-official-coding-programming-codeit-Y1vohJMVMtjSQxmUot">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/Y1vohJMVMtjSQxmUot" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/codeit-official-coding-programming-codeit-Y1vohJMVMtjSQxmUot">via GIPHY</a></p>
 - 🔭 I’m currently working on **hackathon project**
 
 - 🌱 I’m currently learning **DSA**
