@@ -1,4 +1,3 @@
-![Banner](https://getwallpapers.com/wallpaper/full/6/4/8/15088.jpg)
 
 <h1 align="center">Hi 👋, I'm Vivek V. Barvadiya</h1>
 <h3 align="center">A Front end developer</h3>
